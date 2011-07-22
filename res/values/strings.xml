@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, info!</string>
+    <string name="app_name">DigitalClockWidget</string>
+    <string name = "information"> Thank you for installing the Custom Digital Clock Widget.\n\nThis is a widget, not a regular application. Widgets are placed on the home screen and offer information at a glance. You can press the widget and view additional, information as in this case.\n</string>
+</resources>
